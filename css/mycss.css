@@ -1,0 +1,10 @@
+#nav-logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#logo-header{
+	padding-top: 10px;
+	margin-right: 1rem;
+}
